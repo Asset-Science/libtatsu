@@ -44,7 +44,7 @@
 
 #define USER_AGENT_STRING "InetURL/1.0"
 
-#define AUTH_VERSION "1049.100.23"
+#define AUTH_VERSION "1033.0.6"
 
 #ifdef _WIN32
 #define TSS_CLIENT_VERSION_STRING "libauthinstall_Win-"AUTH_VERSION"" 

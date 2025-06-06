@@ -23,6 +23,7 @@
 #endif
 
 #include "common.h"
+#define PACKAGE_VERSION "1.3.1"
 
 const char* libtatsu_version()
 {

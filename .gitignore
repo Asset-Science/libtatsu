@@ -36,3 +36,5 @@ src/libtatsu-1.0.pc
 .idea/
 .DS_Store
 .vscode/
+.vs/
+x64/

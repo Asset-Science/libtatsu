@@ -12,7 +12,7 @@ libtatsu_la_SOURCES =	\
 	tatsu.c \
 	common.h
 
-if WIN32
+if _WIN32
 libtatsu_la_LDFLAGS += -avoid-version -static-libgcc
 libtatsu_la_LIBADD += -lws2_32
 endif
